@@ -42,7 +42,12 @@ main
 branch32-adrian
 god save the lord
 =======
+patch-1
+
+branch-3
+=======
 branch-3  
+main
 branch4 - adrian
 oh babby babby dont be shy
 =======
@@ -51,5 +56,10 @@ sadiugasukdh
  main
 main
 =======
+patch-1
+# Branch 4 - Eric  reeehehehehehhehehehhehehe
+# kumalala kumalala 
+=======
 # Branch 4 - Eric asokfaoksofogosdifop REEHEHEHEHEHHEHE
 # hi
+ main
