@@ -24,3 +24,5 @@ eghjsfd
 main
 >>>>> main
 AP CSP
+set variables as 20
+>>>>> 
