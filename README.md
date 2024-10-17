@@ -24,4 +24,31 @@ eghjsfd
 main
 >>>>> main
 AP CSP
+atch-4
 set patch 3 = 48
+=======
+atch-2
+
+If AP CSP<20
+then broadcast message 1-
+=======
+patch-1
+
+set cookie = 45
+=======
+patch-1
+set number 2 to x
+=======
+patch-2
+set variable geek to PT
+=======
+patch-3
+set value of x = 92
+=======
+shoing what 5+5 = 10
+main
+main
+ main
+ main
+main
+main
