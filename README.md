@@ -24,3 +24,6 @@ eghjsfd
 main
 >>>>> main
 AP CSP
+
+If AP CSP<20
+then broadcast message 1-
